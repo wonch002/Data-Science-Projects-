@@ -1,2 +1,4 @@
 # School-Data-Science-Projects-
-This repository displays work that I've completed for class (related to data science).
+This repository displays Data Science work that I've completed.
+
+To view each project, select the HTML file.
